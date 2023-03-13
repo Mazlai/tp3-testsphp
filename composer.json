@@ -1,0 +1,15 @@
+{
+    "name": "etudiant/tp3-testsphp",
+    "description": "Mars Rover Project",
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    },
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Mickael FERNANDEZ",
+            "email": "micky31200@gmail.com"
+        }
+    ],
+    "require": {}
+}
