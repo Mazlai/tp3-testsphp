@@ -11,5 +11,10 @@
             "email": "micky31200@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "MRover\\": "src/"
+        }
+    },
     "require": {}
 }
